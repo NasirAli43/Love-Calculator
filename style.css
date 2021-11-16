@@ -1,0 +1,28 @@
+body {
+width:100%;
+}
+.calc {
+width:80%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding:20px;
+	border:5px solid ;
+	background-image: url("heart.png");
+}
+button {
+font-family: sans-serif;
+outline: none;
+background-color: #903C56;
+color: #f8f9f9;
+padding:2px 5px;
+border-radius: 10px;
+}
+input{
+border:solid DarkRed;
+}
+#result {
+	color: black;
+  font-size: 85px;
+  text-shadow: 1px 1px 1px #646161;
+	height: 150px;
+}
